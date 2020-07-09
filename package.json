@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "json-fn": "^1.1.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.16"
   },
   "devDependencies": {
     "chai": "^4.2.0",
